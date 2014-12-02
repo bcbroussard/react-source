@@ -13509,6 +13509,7 @@ var knownTags = {
   a: true,
   abbr: true,
   address: true,
+  animate: true,
   applet: true,
   area: true,
   article: true,
